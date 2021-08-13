@@ -1,0 +1,9 @@
+Setup guide:
+
+Download python if it's not already installed
+Double click 'Setup' - this will generate the bat file that has the 
+location of python.exe and the SBillMoveRename.py, it also automatically
+creates a scheduled task for every 5 minutes.
+
+The 'Source' and 'Destination' locations are set to variables within SBillMoveRename.
+With python installed, right click edit > IDLE and it can be changed there.
